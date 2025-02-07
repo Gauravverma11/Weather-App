@@ -109,9 +109,10 @@
   .error {
     text-align: left;
     margin-left: 10px;
-    font-size: 14px;
-    margin-top: 10px;
+    margin-top: 15px;
     display: none;
     color: red;
+    font-size: 14px;
+    text-transform: uppercase;
   }
   
